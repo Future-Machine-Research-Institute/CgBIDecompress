@@ -1,0 +1,22 @@
+{
+  "name": "@future-machine-research-institute/cgbidecompress",
+  "version": "1.0.0",
+  "description": "Used to convert Xcode optimized png images from CgBI format to normal png format",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Future-Machine-Research-Institute/CgBIDecompress.git"
+  },
+  "keywords": [
+    "cgbi"
+  ],
+  "author": "arrosev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Future-Machine-Research-Institute/CgBIDecompress/issues"
+  },
+  "homepage": "https://github.com/Future-Machine-Research-Institute/CgBIDecompress#readme"
+}
